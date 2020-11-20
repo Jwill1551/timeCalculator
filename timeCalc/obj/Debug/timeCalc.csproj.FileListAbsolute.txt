@@ -1,0 +1,10 @@
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\bin\Debug\timeCalc.exe.config
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\bin\Debug\timeCalc.exe
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\bin\Debug\timeCalc.pdb
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\obj\Debug\timeCalc.csprojAssemblyReference.cache
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\obj\Debug\timeCalc.Properties.Resources.resources
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\obj\Debug\timeCalc.csproj.GenerateResource.cache
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\obj\Debug\timeCalc.csproj.CoreCompileInputs.cache
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\obj\Debug\timeCalc.exe
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\obj\Debug\timeCalc.pdb
+C:\Users\MrJW3\source\repos\timeCalc\timeCalc\obj\Debug\timeCalc.timeCalc.resources
